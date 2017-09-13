@@ -1,5 +1,5 @@
 /*
-  treasy Project 
+  discoverymanager Project 
   Easy source code and snippet documentation tool
   Copyright (C) 2017 Mustafa Ozcelikors, github.com/mozcelikors, 
   mozcelikors@gmail.com
