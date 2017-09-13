@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+void display_info(void)
+{
+  printf("displayed.\n");
+}

@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <pthread.h>
+#include "treasy.hpp"
+
+int main (void)
+{
+  printf("Started\n");
+  return 0;
+}
