@@ -70,7 +70,7 @@ int main (int argc, char* argv[])
 	/* Help option */
 	case 'h':
 	  /* Print help/usage instructions to the stream */
-	  print_help (stdout, 0);
+	  printHelp (stdout, 0);
 	  break;
 
 	/* Output option */
