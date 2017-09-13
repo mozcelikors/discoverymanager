@@ -22,7 +22,7 @@
 #include <pthread.h>
 #include <getopt.h>
 
-#include "discovermanager.hpp"
+#include "discoverymanager.hpp"
 
 
 using namespace std;
