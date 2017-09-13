@@ -1,0 +1,7 @@
+bin/*
+build/*
+*~
+CMakeFiles/*
+cmake_install.cmake
+install_manifest.txt
+Makefile
